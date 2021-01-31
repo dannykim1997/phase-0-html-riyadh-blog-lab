@@ -26,22 +26,24 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color:black
 }
 
 h1 {
   font-size: 3.5em;
   margin-bottom: 0;
+  color: red
 }
 
 h2 {
   font-size: 1.5em;
   margin-top: .5em;
+  color: peru
 }
 
 h3 {
   font-family: 'Gabriela', serif;
-  font-size: 1.5em;
+  font-size: 4.5em;
   margin-top: .5em;
 }
 
